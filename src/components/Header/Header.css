@@ -9,13 +9,15 @@
     padding-right: 100px;
 }
 
-nav.header a{
+nav.header a {
     color: white;
     text-decoration: none;
     margin-left: 20px;
 
 }
-nav.header a:hover{
+
+nav.header a:hover {
     color: orange;
 
 }
+
